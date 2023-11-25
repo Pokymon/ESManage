@@ -6,7 +6,7 @@ ESManage is a sophisticated asset management website designed to optimize the ha
 
 To set up ESManage on your local machine, follow these instructions:
 
-1. Clone the repository to your local machine using `git clone https://github.com/YourUsername/ESManage.git`.
+1. Clone the repository to your local machine using `git clone https://github.com/Pokymon/esmanage.git`.
 
 2. Navigate to the frontend directory with `cd esmanage/es-manage`. Install the necessary node modules using `npm install`.
 
@@ -36,4 +36,4 @@ ESManage is made available under the MIT License. For more information, refer to
 
 ## Contact
 
-If you have any questions, suggestions, or would like to discuss potential collaboration, feel free to reach out at contact@esmanage.com.
+If you have any questions, suggestions, or would like to discuss potential collaboration, feel free to reach out at business@pokymons.com.
