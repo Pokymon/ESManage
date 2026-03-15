@@ -36,4 +36,4 @@ ESManage is made available under the MIT License. For more information, refer to
 
 ## Contact
 
-If you have any questions, suggestions, or would like to discuss potential collaboration, feel free to reach out at business@pokymons.com.
+If you have any questions, suggestions, or would like to discuss potential collaboration, feel free to reach out at fauqi@pokymon.com.
